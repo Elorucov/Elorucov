@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer based in Azerbaijan. Creating stuff (GUI apps, tools and backend/web services) using .NET.
+I'm a software engineer based in Azerbaijan. Creating GUI apps, tools and backend/web services using .NET.
