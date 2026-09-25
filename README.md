@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a software engineer based in Azerbaijan. Creating GUI apps, tools and backend/web services using .NET.
+
+[![committers.top badge](https://user-badge.committers.top/azerbaijan/USERNAME.svg)](https://user-badge.committers.top/azerbaijan/Elorucov)
