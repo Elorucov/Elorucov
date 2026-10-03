@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I'm a software engineer based in Azerbaijan. Creating GUI apps, tools and backend/web services using .NET.
 
 [![committers.top badge](https://user-badge.committers.top/azerbaijan/Elorucov.svg)](https://user-badge.committers.top/azerbaijan/Elorucov)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Elorucov&label=Profile%20views&color=4bb34b&labelColor=2d3748&style=flat-square)
