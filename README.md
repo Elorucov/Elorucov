@@ -19,4 +19,4 @@ I'm a software engineer based in Azerbaijan. Creating GUI apps, tools and backen
 
 [![committers.top badge](https://user-badge.committers.top/azerbaijan/Elorucov.svg)](https://user-badge.committers.top/azerbaijan/Elorucov)
 
-![Profile views](https://komarev.com/ghpvc/?username=Elorucov&color=4bb34b&style=flat)
+![](https://komarev.com/ghpvc/?username=Elorucov&color=4bb34b&style=flat)
